@@ -1,0 +1,17 @@
+.disabled{
+    
+    pointer-events:none; 
+    opacity:0.4;        
+
+}
+#todoList{
+    border: 7px solid black;
+    border-radius: 0.5rem;
+    background-color: black;
+    color:lightgreen;
+}
+#welcome{
+    font-family: calibri;
+    font-weight: bolder;
+    color: white;
+    
